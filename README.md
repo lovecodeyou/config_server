@@ -1,0 +1,2 @@
+# config_server
+configServer统一管理微服务的配置文件
